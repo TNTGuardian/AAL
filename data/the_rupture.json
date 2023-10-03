@@ -1,0 +1,17 @@
+{
+    "id": 57828784,
+    "name": "The Rupture",
+    "author": "Ka1ns",
+    "creators": ["Ka1ns"],
+    "verifier": "Dolphy",
+    "verification": "https://youtu.be/SaU454afkKY",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Gesjht",
+          "link": "https://youtu.be/W8aJIDu9lyo?si=BTeZ2cMnSQnaxGSm",
+          "percent": "100",
+          "hz": "144"
+      }
+    ]
+}
