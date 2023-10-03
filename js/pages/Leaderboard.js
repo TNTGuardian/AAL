@@ -1,8 +1,6 @@
 import { fetchLeaderboard } from '../content.js';
 import { localize } from '../util.js';
-
 import Spinner from '../components/Spinner.js';
-
 export default {
     components: {
         Spinner,
@@ -45,6 +43,7 @@ export default {
                     <div class="player">
                         <h1>#{{ selected + 1 }} {{ entry.user }}</h1>
                         <h3>{{ entry.total }}</h3>
+                        <h2 v-if="entry.verified.length > 0">Verified</h2>
                         <h2 v-if="entry.verified.length > 0">Verified ({{ entry.verified.length}})</h2>
                         <table class="table">
                             <tr v-for="score in entry.verified">
@@ -59,6 +58,7 @@ export default {
                                 </td>
                             </tr>
                         </table>
+                        <h2 v-if="entry.completed.length > 0">Completed</h2>
                         <h2 v-if="entry.completed.length > 0">Completed ({{ entry.completed.length }})</h2>
                         <table class="table">
                             <tr v-for="score in entry.completed">
@@ -70,6 +70,10 @@ export default {
                                 </td>
                                 <td class="score">
                                     <p>+{{ localize(score.score) }}</p>
+                                </td>
+                            </tr>
+                        </table>
+                        <h2 v-if="entry.progressed.length > 0">Progressed</h2>
                         <h2 v-if="entry.progressed.length > 0">Progressed ({{entry.progressed.length}})</h2>
                         <table class="table">
                             <tr v-for="score in entry.progressed">
@@ -81,9 +85,6 @@ export default {
                                 </td>
                                 <td class="score">
                                     <p>+{{ localize(score.score) }}</p>
-                                </td>
-                            </tr>
-                        </table>
                                 </td>
                             </tr>
                         </table>
