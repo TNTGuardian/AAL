@@ -1,0 +1,16 @@
+{
+    "id": 54588072,
+    "name": "INNARDS",
+    "author": "Kaito",
+    "creators": ["Kaito"],
+    "verification": "https://youtu.be/r2BI-N6rcas",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Creig",
+          "link": "https://www.youtube.com/watch?v=24acZ1kPM_s",
+          "percent": "100",
+          "hz": "360"
+      }
+    ]
+}
