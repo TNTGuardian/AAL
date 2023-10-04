@@ -1,0 +1,28 @@
+{
+    "id": 59899374,
+    "name": "Prismatic Haze",
+    "author": "Citrax",
+    "creators": ["Gizbro, Citrax"],
+    "verification": "https://youtu.be/RS5ZFcuaw3I",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Gesjht",
+          "link": "https://www.youtube.com/watch?v=Bn5sQjJr2ZA",
+          "percent": "100",
+          "hz": "144"
+      },
+      {
+          "user": "Duckiee",
+          "link": "https://www.youtube.com/watch?v=qIhackecj6s",
+          "percent": "100",
+          "hz": "120"
+      },
+      {
+          "user": "Creig",
+          "link": "https://www.youtube.com/watch?v=QKmfWCm1MEA",
+          "percent": "100",
+          "hz": "360"
+      }
+    ]
+}
