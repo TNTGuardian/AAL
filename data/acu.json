@@ -1,0 +1,46 @@
+{
+    "id": 61079355,
+    "name": "Acu",
+    "author": "neigefeu",
+    "creators": [neigefeu],
+    "verification": "https://youtu.be/z6l74Mkoxm8",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Gesjht",
+          "link": "https://www.youtube.com/watch?v=ZbRUTy47g1s",
+          "percent": "100",
+          "hz": "144"
+      },
+      {
+          "user": "Creig",
+          "link": "https://www.youtube.com/watch?v=9KM-XTOGVxQ",
+          "percent": "100",
+          "hz": "360"
+      },
+      {
+          "user": "Duckiee",
+          "link": "https://www.youtube.com/watch?v=Tax_GJmPnf0",
+          "percent": "100",
+          "hz": "120"
+      },
+      {
+          "user": "Squiddy",
+          "link": "https://www.youtube.com/watch?v=a_trGJDI9qU",
+          "percent": "100",
+          "hz": "144"
+      },
+      {
+          "user": "RockyWebb",
+          "link": "https://www.youtube.com/watch?v=macUyKs3GRM",
+          "percent": "100",
+          "hz": "60"
+      },
+      {
+          "user": "Opossum",
+          "link": "",
+          "percent": "100",
+          "hz": "60"
+      },
+    ]
+}
