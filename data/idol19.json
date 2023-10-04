@@ -1,0 +1,16 @@
+{
+    "id": 92128198,
+    "name": "IDOL19",
+    "author": "YouknowwhoGD",
+    "creators": ["YouknowwhoGD"],
+    "verification": "https://youtu.be/ypc-vU-2AdE",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Creig",
+          "link": "https://youtu.be/F9o2WVnZd3I?si=Kw0dj4PeCIrOcBR-",
+          "percent": "100",
+          "hz": "360"
+      }
+    ]
+}
