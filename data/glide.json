@@ -1,0 +1,22 @@
+{
+    "id": 55184818,
+    "name": "Glide",
+    "author": "crohn44",
+    "creators": ["crohn44"],
+    "verification": "https://youtu.be/IFw94EqMudg",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Gesjht",
+          "link": "https://www.youtube.com/watch?v=Asbd7OZZtms",
+          "percent": "100",
+          "hz": "144"
+      },
+      {
+          "user": "Creig",
+          "link": "https://www.youtube.com/watch?v=CwBxPvv-V8A",
+          "percent": "100",
+          "hz": "360"
+      }
+    ]
+}
