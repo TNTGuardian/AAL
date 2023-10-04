@@ -26,10 +26,6 @@ export default {
                 <p class="type-body">
                     <span>{{ author }}</span>
                 </p>
-                <div class="type-title-sm">Verifier</div>
-                <p class="type-body">
-                    <span>{{ verifier }}</span>
-                </p>
             </template>
             <template v-else>
                 <div class="type-title-sm">Creators</div>
