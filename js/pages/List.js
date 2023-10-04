@@ -95,16 +95,19 @@ export default {
                     </template>
                     <h3>About The List</h3>
                     <p>
-                        This list was made by Gesjht as a way of listing off our completed Extreme/Insane Demons!
+                        This list was made by Twisted as a way of listing off our completed Extreme/Insane Demons!
                     </p>
                     <p>
-                        Levels are listed from the hardest level being at #1 and down to the easiest levels placed from #2 and down
+                        (DISCLAIMER): Though the original list had records for both Extreme and Insane demons, this list only has Extremes
                     </p>
                     <p>
                         When you have completed a level that is placed on this list (or one that hasn't) I will most likely notice it since I'm subscribed to most of you all on YouTube
                     </p>
                     <p>
                         If your record has not been placed on the list within 2-3 days, please notify my dumbass
+                    </p>
+                    <p>
+                        DM me if there are any errors or changes needed to be made on the list
                     </p>
                      <p>
                     </p>
