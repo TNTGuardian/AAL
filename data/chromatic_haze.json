@@ -1,0 +1,16 @@
+{
+    "id": 62869408,
+    "name": "Chromatic Haze",
+    "author": "Citrax",
+    "creators": ["Citrax, Gizbro"],
+    "verification": "https://youtu.be/J-qEOHy-IIA",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Gesjht",
+          "link": "https://www.youtube.com/watch?v=rhGisdGdT3s",
+          "percent": "100",
+          "hz": "144"
+      }
+    ]
+}
