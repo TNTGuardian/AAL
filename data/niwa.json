@@ -1,0 +1,34 @@
+{
+    "id": 87425029,
+    "name": "niwa",
+    "author": "Teno",
+    "creators": ["Teno, Mrgm, Aranda, Titoalper, KrazyGFX, Beclan, Asuith, Pedro, Peng, Blaze, Genoxide"],
+    "verification": "https://youtu.be/1tven_pFftA",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Creig",
+          "link": "https://www.youtube.com/watch?v=bPlEoXKtnsY",
+          "percent": "100",
+          "hz": "360"
+      },
+      {
+          "user": "Gesjht",
+          "link": "https://www.youtube.com/watch?v=wIjHfR9CeA0",
+          "percent": "100",
+          "hz": "144"
+      },
+      {
+          "user": "Duckiee",
+          "link": "https://www.youtube.com/watch?v=wwH78W78AC8",
+          "percent": "100",
+          "hz": "120"
+      },
+      {
+          "user": "Opossum",
+          "link": "https://www.youtube.com/watch?v=IePYt75ynqU",
+          "percent": "100",
+          "hz": "144"
+      }
+    ]
+}
