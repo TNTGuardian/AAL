@@ -1,0 +1,16 @@
+{
+    "id": 27379546,
+    "name": "Infernal Abyss",
+    "author": "GgB0y",
+    "creators": ["Bianox, GgB0y, Manix648"],
+    "verification": "https://youtu.be/PphhxYmYYZU",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Creig",
+          "link": "https://www.youtube.com/watch?v=IB5YwRQ9lU8",
+          "percent": "100",
+          "hz": "360"
+      }
+    ]
+}
