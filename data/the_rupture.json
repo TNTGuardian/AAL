@@ -3,7 +3,7 @@
     "name": "The Rupture",
     "author": "Ka1ns",
     "creators": ["Ka1ns"],
-    "verifier": "Dolphy",
+    "verifier": Dolphy,
     "verification": "https://youtu.be/SaU454afkKY",
     "percentToQualify": 100,
     "records": [
