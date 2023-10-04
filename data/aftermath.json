@@ -1,0 +1,22 @@
+{
+    "id": 25610878,
+    "name": "aftermath",
+    "author": "Exenity",
+    "creators": ["knobbelboy, Exenity, Squizz, Hinds, Vultra, Rhythmic, Waze, Bassiegames, Findexi"],
+    "verification": "https://youtu.be/iLCcJyh5c5k",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Creig",
+          "link": "https://www.youtube.com/watch?v=9vP-iJTeVK4",
+          "percent": "100",
+          "hz": "360"
+      },
+      {
+          "user": "Gesjht",
+          "link": "https://www.youtube.com/watch?v=k7vF2S6xKN0",
+          "percent": "100",
+          "hz": "144"
+      }
+    ]
+}
