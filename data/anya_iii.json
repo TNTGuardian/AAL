@@ -1,0 +1,22 @@
+{
+    "id": 81257586,
+    "name": "Anya III",
+    "author": "Anya21",
+    "creators": ["Anya21"],
+    "verification": "https://youtu.be/9Mgr0f5mBuU",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Duckiee",
+          "link": "https://www.youtube.com/watch?v=JzJm-KroHs0",
+          "percent": "100",
+          "hz": "120"
+      },
+      {
+          "user": "Twisted",
+          "link": "https://www.youtube.com/watch?v=e2Ml-d7hOdM",
+          "percent": "100",
+          "hz": "240"
+      }
+    ]
+}
