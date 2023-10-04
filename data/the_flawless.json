@@ -1,0 +1,16 @@
+{
+    "id": 21280210,
+    "name": "The Flawless",
+    "author": "IIIRyanIII",
+    "creators": ["atheoz, xevenfurious, raptorz, reverier, megaspeed, codly, crispy creepz, IIIRyanIII"],
+    "verification": "https://youtu.be/RHOCE37dP2A",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Creig",
+          "link": "https://www.youtube.com/watch?v=CwBxPvv-V8A",
+          "percent": "100",
+          "hz": "360"
+      }
+    ]
+}
