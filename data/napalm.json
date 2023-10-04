@@ -1,0 +1,16 @@
+{
+    "id": 65561437,
+    "name": "Napalm",
+    "author": "Marwec",
+    "creators": ["Subwoofer, VictorinoxX, OpteX, Dominuus, Vapen, Sminx, Marwec, Eggnog, FerdeFunky, Buragoz, Zalspr"],
+    "verification": "https://youtu.be/ND--Ai4XVfM",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Gesjht",
+          "link": "https://www.youtube.com/watch?v=AvPIGNnvmyI",
+          "percent": "100",
+          "hz": "144"
+      }
+    ]
+}
