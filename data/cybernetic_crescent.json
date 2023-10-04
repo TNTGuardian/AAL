@@ -1,0 +1,16 @@
+{
+    "id": 66291197,
+    "name": "Cybernetic Crescent",
+    "author": "ViPriN",
+    "creators": ["Codex, Shocksidian, Rustam, FerdeFunky, G4lvatron, nasgubb, ViPriN, Enzore, Samifying, Vlacc, TheDevon, Serponge, Hinds, Terron, Floppy, FirsGD, zalspr"],
+    "verification": "https://youtu.be/0yKtq1PJeDQ",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Gesjht",
+          "link": "https://www.youtube.com/watch?v=QJ9lyWmAMJk",
+          "percent": "100",
+          "hz": "144"
+      }
+    ]
+}
