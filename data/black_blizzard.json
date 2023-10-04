@@ -1,0 +1,22 @@
+{
+    "id": 34057654,
+    "name": "Black Blizzard",
+    "author": "KrmaL",
+    "creators": ["KrmaL"],
+    "verification": "https://youtu.be/lsT5TjQ1Ubc",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Gesjht",
+          "link": "https://www.youtube.com/watch?v=G7mWqV_Xb8k",
+          "percent": "100",
+          "hz": "144"
+      },
+      {
+          "user": "Creig",
+          "link": "https://www.youtube.com/watch?v=oSIpNiGJU6A",
+          "percent": "100",
+          "hz": "360"
+      }
+    ]
+}
