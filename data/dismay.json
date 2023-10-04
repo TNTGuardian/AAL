@@ -1,0 +1,16 @@
+{
+    "id": 64680297,
+    "name": "Dismay",
+    "author": "ewop",
+    "creators": ["ewop, eth, goob, silver, Luucas, LimeTime313"],
+    "verification": "https://youtu.be/3aYIYYP3iF8",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Creig",
+          "link": "https://www.youtube.com/watch?v=CwBxPvv-V8A",
+          "percent": "100",
+          "hz": "360"
+      }
+    ]
+}
