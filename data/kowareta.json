@@ -3,7 +3,14 @@
     "name": "kowareta",
     "author": "Gablor",
     "creators": ["Minaxa, Endlevel, Gablor"],
-    "verification": "Link",
+    "verification": "https://youtu.be/wxWBFaZYHPM",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+      {
+          "user": "Creig",
+          "link": "https://www.youtube.com/watch?v=XRdZWrGjmOk&t=3s",
+          "percent": "100",
+          "hz": "360"
+      }
+    ]
 }
