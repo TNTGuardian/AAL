@@ -1,0 +1,16 @@
+{
+    "id": 60289382,
+    "name": "Falcon16",
+    "author": "Lieb",
+    "creators": ["GunnerBones, HelpegasuS, Isane, Verbet, Unigeny, Majkomar, Spectex, PotatoBaby, Zafkiel, Tob24, Reunomi, Duffz, FlaksY, Enixy, Lieb"],
+    "verification": "https://youtu.be/JZSj4rJYMJQ",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Gesjht",
+          "link": "https://www.youtube.com/watch?v=JIAXQW68C5g",
+          "percent": "100",
+          "hz": "144"
+      }
+    ]
+}
