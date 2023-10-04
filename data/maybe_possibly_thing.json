@@ -1,0 +1,28 @@
+{
+    "id": 60284098,
+    "name": "Maybe Possibly Thing",
+    "author": "iNubble",
+    "creators": ["iNubble"],
+    "verification": "https://youtu.be/u7dBdD531As",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Gesjht",
+          "link": "https://www.youtube.com/watch?v=uRObU71Nr38",
+          "percent": "100",
+          "hz": "144"
+      },
+      {
+          "user": "Duckiee",
+          "link": "https://www.youtube.com/watch?v=CDGwiUK30bM",
+          "percent": "100",
+          "hz": "120"
+      },
+      {
+          "user": "Creig",
+          "link": "https://www.youtube.com/watch?v=0AiB9n3RJi0",
+          "percent": "100",
+          "hz": "360"
+      }
+    ]
+}
