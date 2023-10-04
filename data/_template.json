@@ -5,5 +5,12 @@
     "creators": [],
     "verification": "Link",
     "percentToQualify": 100,
-    "records": []
+    "records": [
+        {
+          "user": "",
+          "link": "",
+          "percent": "",
+          "hz": ""
+      }
+    ]
 }
