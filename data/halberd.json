@@ -1,0 +1,16 @@
+{
+    "id": 63377357,
+    "name": "Halberd",
+    "author": "notlsa",
+    "creators": ["th31, notlsa"],
+    "verification": "https://youtu.be/yqxlKM8DJI0",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "MasterBlock",
+          "link": "https://www.youtube.com/watch?v=iwfAds3i3f4",
+          "percent": "100",
+          "hz": "80"
+      }
+    ]
+}
