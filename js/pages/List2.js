@@ -4,7 +4,7 @@ import { score } from '../score.js';
 import { fetchEditors, fetchList } from '../content.js';
 
 import Spinner from '../components/Spinner.js';
-import LevelAuthors from '../components/List/LevelAuthors.js';
+import LevelAuthors from '../components/list2/LevelAuthors.js';
 
 const roleIconMap = {
     owner: 'crown',
@@ -20,10 +20,10 @@ export default {
         <main v-if="loading">
             <Spinner></Spinner>
         </main>
-        <main v-else class="page-list">
-            <div class="list-container">
-                <table class="list" v-if="list">
-                    <tr v-for="([level, err], i) in list">
+        <main v-else class="page-list2">
+            <div class="list2-container">
+                <table class="list2" v-if="list2">
+                    <tr v-for="([level, err], i) in list2">
                         <td class="rank">
                             <p v-if="i + 1 <= 150" class="type-label-lg">#{{ i + 1 }}</p>
                             <p v-else class="type-label-lg">Legacy</p>
@@ -81,10 +81,10 @@ export default {
                         <p class="error" v-for="error of errors">{{ error }}</p>
                     </div>
                     <div class="og">
-                        <p class="type-label-md">Original List by Twisted</p>
+                        <p class="type-label-md">Original list2 by Twisted</p>
                     </div>
                     <template v-if="editors">
-                        <h3>List Editors</h3>
+                        <h3>list2 Editors</h3>
                         <ol class="editors">
                             <li v-for="editor in editors">
                                 <img :src="\`/assets/\${roleIconMap[editor.role]}\${store.dark ? '-dark' : ''}.svg\`" :alt="editor.role">
@@ -93,21 +93,21 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>About The List</h3>
+                    <h3>About The list2</h3>
                     <p>
-                        This list was made by Twisted as a way of listing off our completed Extreme/Insane Demons!
+                        This list2 was made by Twisted as a way of listing off our completed Extreme/Insane Demons!
                     </p>
                     <p>
-                        (DISCLAIMER): Though the original list had records for both Extreme and Insane demons, this list only has Extremes
+                        (DISCLAIMER): Though the original list2 had records for both Extreme and Insane demons, this list2 only has Extremes
                     </p>
                     <p>
-                        When you have completed a level that is placed on this list (or one that hasn't) I will most likely notice it since I'm subscribed to most of you all on YouTube
+                        When you have completed a level that is placed on this list2 (or one that hasn't) I will most likely notice it since I'm subscribed to most of you all on YouTube
                     </p>
                     <p>
-                        If your record has not been placed on the list within 2-3 days, please notify my dumbass
+                        If your record has not been placed on the list2 within 2-3 days, please notify my dumbass
                     </p>
                     <p>
-                        DM me if there are any errors or changes needed to be made on the list
+                        DM me if there are any errors or changes needed to be made on the list2
                     </p>
                      <p>
                     </p>
@@ -116,7 +116,7 @@ export default {
         </main>
     `,
     data: () => ({
-        list: [],
+        list2: [],
         editors: [],
         loading: true,
         selected: 0,
@@ -126,29 +126,29 @@ export default {
     }),
     computed: {
         level() {
-            return this.list[this.selected][0];
+            return this.list2[this.selected][0];
         },
     },
     async mounted() {
         // Hide loading spinner
-        this.list = await fetchList();
+        this.list2 = await fetchList();
         this.editors = await fetchEditors();
 
         // Error handling
-        if (!this.list) {
+        if (!this.list2) {
             this.errors = [
-                'Failed to load list. Retry in a few minutes or notify list staff.',
+                'Failed to load list2. Retry in a few minutes or notify list2 staff.',
             ];
         } else {
             this.errors.push(
-                ...this.list
+                ...this.list2
                     .filter(([_, err]) => err)
                     .map(([_, err]) => {
                         return `Failed to load level. (${err}.json)`;
                     }),
             );
             if (!this.editors) {
-                this.errors.push('Failed to load list editors.');
+                this.errors.push('Failed to load list2 editors.');
             }
         }
 
