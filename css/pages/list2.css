@@ -10,17 +10,17 @@
     padding-right: 2rem;
 }
 
-.page-list .list {
+.page-list .list2 {
     table-layout: auto;
 }
-.page-list .list .rank {
+.page-list .list2 .rank {
     text-align: end;
     padding-right: 1rem;
 }
-.page-list .list .level {
+.page-list .list2 .level {
     width: 100%;
 }
-.page-list .list .level button {
+.page-list .list2 .level button {
     background-color: var(--color-background);
     color: var(--color-on-background);
     border: none;
@@ -31,16 +31,16 @@
     overflow-wrap: anywhere;
     cursor: pointer;
 }
-.page-list .list .level.error button {
+.page-list .list2 .level.error button {
     color: var(--color-error);
     cursor: not-allowed;
     text-decoration: line-through;
 }
-.page-list .list .level button:hover {
+.page-list .list2 .level button:hover {
     background-color: var(--color-background-hover);
     color: var(--color-on-background-hover);
 }
-.page-list .list .level.active button {
+.page-list .list2 .level.active button {
     background-color: var(--color-primary);
     color: var(--color-on-primary);
 }
