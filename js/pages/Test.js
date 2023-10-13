@@ -40,7 +40,7 @@ export default {
                 </div>
                 <div class="player-container">
                     <div class="player">
-                        <h1>{{ entry.user }}</h1>
+                        <h1>{{ entry.name }}</h1>
                         <h3>{{ entry.total }} Points </h3>
 
                         <h2 v-if="entry.completed.length > 0">Completed ({{ entry.completed.length }})</h2>
