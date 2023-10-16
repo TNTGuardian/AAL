@@ -1,8 +1,16 @@
 {
     "id": 1,
-    "name": "Harry Challenge",
-    "author": "a",
+    "name": "Name",
+    "author": "Uploader",
     "creators": [],
-    "verification": "https://aals.pages.dev/#/wave",
+    "verification": "Link",
     "percentToQualify": 100,
+    "records": [
+      {
+          "user": "",
+          "link": "",
+          "percent": "",
+          "hz": ""
+      }
+    ]
 }
