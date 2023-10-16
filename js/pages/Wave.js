@@ -43,10 +43,6 @@ export default {
                     <iframe class="video" :src="embed(level.verification)" frameborder="0"></iframe>
                     <ul class="stats">
                         <li>
-                            <div class="type-title-sm">Points when completed</div>
-                            <p>{{ score(selected + 1, 100, level.percentToQualify) }}</p>
-                        </li>
-                        <li>
                             <div class="type-title-sm">ID</div>
                             <p>{{ level.id }}</p>
                         </li>
