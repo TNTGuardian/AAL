@@ -2,15 +2,15 @@ export default {
     props: {
         author: {
             type: String,
-            required: true,
+            required: false,
         },
         creators: {
             type: Array,
-            required: true,
+            required: false,
         },
         verifier: {
             type: String,
-            required: true,
+            required: false,
         },
     },
     template: `
