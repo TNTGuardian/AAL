@@ -10,7 +10,7 @@ export async function fetchList() {
     try {
         const list = await listResult.json();
         return await Promise.all(
-            list.map(async (path) => {
+            list.map(async (path, rank) => {
                 const levelResult = await fetch(`${dir}/${path}.json`);
                 try {
                     const level = await levelResult.json();
@@ -60,7 +60,7 @@ export async function fetchLeaderboard() {
 
 
         // Records
-        level.records.forEach((record) => {
+        level.records.forEach((record, rank) => {
             const user = Object.keys(scoreMap).find(
                 (u) => u.toLowerCase() === record.user.toLowerCase(),
             ) || record.user;
