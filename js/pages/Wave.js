@@ -20,7 +20,7 @@ export default {
             <Spinner></Spinner>
         </main>
         <main v-else class="page-list">
-            <div class="list-container">Rock
+            <div class="list-container">
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
                         <td class="level" :class="{ 'active': selected == i, 'error': !level }">
@@ -29,7 +29,6 @@ export default {
                             </button>
                         </td>
                     </tr>
-                    Bronze
                 </div>
             </div>
             <div class="level-container">
