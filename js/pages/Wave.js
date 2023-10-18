@@ -64,21 +64,15 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>About The List</h3>
+                    <h3>About The Wave Challenge List</h3>
                     <p>
-                        This list was made by Twisted as a way of listing off our completed Extreme/Insane Demons!
+                        This list was originally made by the Cabbage Community (CCPL)!
                     </p>
                     <p>
-                        (DISCLAIMER): Though the original list had records for both Extreme and Insane demons, this list only has Extremes
+                        (DISCLAIMER) There will be no records system for this list. It has been imported onto here as a form of checklist so there is no need to worry about recording any of these levels!
                     </p>
                     <p>
-                        When you have completed a level that is placed on this list (or one that hasn't) I will most likely notice it since I'm subscribed to most of you all on YouTube
-                    </p>
-                    <p>
-                        If your record has not been placed on the list within 2-3 days, please notify my dumbass
-                    </p>
-                    <p>
-                        DM me if there are any errors or changes needed to be made on the list
+                        Please DM me if there are any errors or changes needed to be made on the list
                     </p>
                      <p>
                     </p>
