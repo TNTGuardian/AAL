@@ -1,0 +1,16 @@
+{
+    "id": 91701349,
+    "name": "Backlights",
+    "author": "kodex360",
+    "creators": ["kodex360, Ka1sa, PreeZee, Mangosteen, Sparkle224, TruDee, Nekotik, MadRy, WoiteForesst, 8uua, Terraform, unne, Akvaz, Revv, Atlex, mordroc7, G3oGame, NoobyPro27, Elliptic4l, TheRealPeng, Destriv"],
+    "verification": "https://youtu.be/hylx3_-UYf4",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Duckiee",
+          "link": "https://www.youtube.com/watch?v=q2SK_itX1mE",
+          "percent": "100",
+          "hz": "120"
+      }
+    ]
+}
