@@ -1,0 +1,16 @@
+{
+    "id": 69491632,
+    "name": "Crowd Control",
+    "author": "Deadlox",
+    "creators": ["Deadlox, EndLevel, Ka1ns, Ewop, End, Silver"],
+    "verification": "https://youtu.be/-q0iBUZti9s",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Twisted",
+          "link": "https://youtu.be/WC0CH7QxoDA",
+          "percent": "100",
+          "hz": "75"
+      }
+    ]
+}
