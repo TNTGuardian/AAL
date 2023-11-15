@@ -64,9 +64,9 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>About The Wave Challenge List</h3>
+                    <h3>About The Community Levels List</h3>
                     <p>
-                        This list was originally made by the Cabbage Community (CCPL)!
+                        This list was originally made by Twisted5817!
                     </p>
                     <p>
                         (DISCLAIMER) There will be no records system for this list. It has been imported onto here as a form of checklist so there is no need to worry about recording any of these levels!
