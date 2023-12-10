@@ -1,0 +1,16 @@
+{
+    "id": 38754426,
+    "name": "Killbot",
+    "author": "BoldStep",
+    "creators": ["Lithifusion"],
+    "verification": "https://youtu.be/UQvPvOGYdpw",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Creig",
+          "link": "https://youtu.be/ij2AmtN8i1k",
+          "percent": "100",
+          "hz": "240"
+      }
+    ]
+}
