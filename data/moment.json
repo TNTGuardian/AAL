@@ -1,0 +1,16 @@
+{
+    "id": 68848817,
+    "name": "moment",
+    "author": "lexycat",
+    "creators": ["lexycat, icedcave"],
+    "verification": "https://youtu.be/bLfKsN4NCNY",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Twisted",
+          "link": "https://www.youtube.com/watch?v=QZnLemgpeCM",
+          "percent": "100",
+          "hz": "360"
+      }
+    ]
+}
