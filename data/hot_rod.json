@@ -1,0 +1,16 @@
+{
+    "id": 95355264,
+    "name": "hot rod",
+    "author": "stcubing",
+    "creators": ["stcubing"],
+    "verification": "https://youtu.be/FSNGDwv_8N0",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Creig",
+          "link": "https://youtu.be/E7Uyzr17n9w",
+          "percent": "100",
+          "hz": "240"
+      }
+    ]
+}
