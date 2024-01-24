@@ -1,0 +1,16 @@
+{
+    "id": 36449129,
+    "name": "NecropoliX",
+    "author": "Namtar",
+    "creators": ["Namtar"],
+    "verification": "https://youtu.be/oV9Oj7YyhpQ",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "wet floor",
+          "link": "https://www.youtube.com/@nyagamma",
+          "percent": "100",
+          "hz": "144"
+      }
+    ]
+}

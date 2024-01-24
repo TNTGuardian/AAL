@@ -35,6 +35,18 @@
           "link": "https://www.youtube.com/watch?v=HHmNEovUUYI",
           "percent": "100",
           "hz": "144"
-      }
+      },
+      {
+        "user": "haristic",
+        "link": "https://www.youtube.com/watch?v=ON10R87kKbs",
+        "percent": "100",
+        "hz": "360"
+    },
+    {
+        "user": "Tyler",
+        "link": "https://www.youtube.com/watch?v=svtMfZ9ti5o",
+        "percent": "100",
+        "hz": "360"
+    }
     ]
 }

@@ -1,0 +1,16 @@
+{
+    "id": 85933508,
+    "name": "Lost Love",
+    "author": "TheBlackHell",
+    "creators": ["TheBlackHell"],
+    "verification": "https://youtu.be/KGh4Fe5SmXc",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "haristic",
+          "link": "https://www.youtube.com/watch?v=Yx3v5rF-c4k&t",
+          "percent": "100",
+          "hz": "360"
+      }
+    ]
+}

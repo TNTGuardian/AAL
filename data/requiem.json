@@ -1,0 +1,16 @@
+{
+    "id": 52303420,
+    "name": "Requiem",
+    "author": "Zylenox",
+    "creators": ["Lithifusion"],
+    "verification": "https://youtu.be/sRCQ1JjhBq4",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "wet floor",
+          "link": "https://www.youtube.com/watch?v=0czjHJg_bIw",
+          "percent": "100",
+          "hz": "288"
+      }
+    ]
+}
