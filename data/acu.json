@@ -7,34 +7,10 @@
     "percentToQualify": 100,
     "records": [
       {
-          "user": "Gesjht",
-          "link": "https://www.youtube.com/watch?v=ZbRUTy47g1s",
-          "percent": "100",
-          "hz": "60"
-      },
-      {
-          "user": "Creig",
-          "link": "https://www.youtube.com/watch?v=9KM-XTOGVxQ",
-          "percent": "100",
-          "hz": "360"
-      },
-      {
           "user": "Duckiee",
           "link": "https://www.youtube.com/watch?v=Tax_GJmPnf0",
           "percent": "100",
           "hz": "120"
-      },
-      {
-          "user": "Squiddy",
-          "link": "https://www.youtube.com/watch?v=a_trGJDI9qU",
-          "percent": "100",
-          "hz": "144"
-      },
-      {
-          "user": "RockyWebb",
-          "link": "https://www.youtube.com/watch?v=macUyKs3GRM",
-          "percent": "100",
-          "hz": "240"
       },
       {
           "user": "Opossum",
@@ -47,24 +23,6 @@
           "link": "https://www.youtube.com/@Coolgdplayerman",
           "percent": "100",
           "hz": "360"
-      },
-      {
-          "user": "Sdubeo",
-          "link": "https://www.youtube.com/watch?v=X0K_afxQtf0",
-          "percent": "100",
-          "hz": "360"
-      },
-      {
-        "user": "haristic",
-        "link": "https://www.youtube.com/watch?v=bU3BWDZ5Voo",
-        "percent": "100",
-        "hz": "360"
-    },
-    {
-        "user": "wet floor",
-        "link": "https://www.youtube.com/@nyagamma",
-        "percent": "100",
-        "hz": "144"
-    }
+      }
     ]
 }

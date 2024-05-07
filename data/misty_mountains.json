@@ -7,12 +7,6 @@
     "percentToQualify": 100,
     "records": [
       {
-          "user": "Creig",
-          "link": "https://www.youtube.com/watch?v=p02lHKwC42I",
-          "percent": "100",
-          "hz": "360"
-      },
-      {
           "user": "Opossum",
           "link": "https://www.youtube.com/watch?v=wV8jeUKtgac",
           "percent": "100",

@@ -7,22 +7,10 @@
     "percentToQualify": 100,
     "records": [
       {
-          "user": "Gesjht",
-          "link": "https://www.youtube.com/watch?v=G7mWqV_Xb8k",
+          "user": "Duckiee",
+          "link": "https://www.youtube.com/watch?v=2n1IX03sBnI&",
           "percent": "100",
-          "hz": "144"
-      },
-      {
-          "user": "Creig",
-          "link": "https://www.youtube.com/watch?v=oSIpNiGJU6A",
-          "percent": "100",
-          "hz": "360"
-      },
-      {
-        "user": "wet floor",
-        "link": "https://www.youtube.com/@nyagamma",
-        "percent": "100",
-        "hz": "144"
-    }
+          "hz": "120"
+      }
     ]
 }

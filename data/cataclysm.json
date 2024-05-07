@@ -7,46 +7,10 @@
     "percentToQualify": 100,
     "records": [
       {
-          "user": "Gesjht",
-          "link": "https://www.youtube.com/watch?v=XrGuNw3_KEw",
-          "percent": "100",
-          "hz": "144"
-      },
-      {
-          "user": "Creig",
-          "link": "https://www.youtube.com/watch?v=OekcLihtQhA",
-          "percent": "100",
-          "hz": "360"
-      },
-      {
-          "user": "RockyWebb",
-          "link": "https://www.youtube.com/watch?v=jrXVyzwdMKY",
-          "percent": "100",
-          "hz": "240"
-      },
-      {
           "user": "AnOtherDX",
           "link": "https://www.youtube.com/watch?v=IvXsFQqm85s",
           "percent": "100",
           "hz": "240"
-      },
-      {
-          "user": "Squiddy",
-          "link": "https://www.youtube.com/watch?v=HHmNEovUUYI",
-          "percent": "100",
-          "hz": "144"
-      },
-      {
-        "user": "haristic",
-        "link": "https://www.youtube.com/watch?v=ON10R87kKbs",
-        "percent": "100",
-        "hz": "360"
-    },
-    {
-        "user": "Tyler",
-        "link": "https://www.youtube.com/watch?v=svtMfZ9ti5o",
-        "percent": "100",
-        "hz": "360"
-    }
+      }
     ]
 }
