@@ -1,0 +1,16 @@
+{
+    "id": 57019271,
+    "name": "Raindance",
+    "author": "Milos482",
+    "creators": ["ViralDL, Milos482m RicoMeister, Mobi, BlastFurnace, Craf, Prisma, Patchimator, ZWK, LaysMan, Corrox"],
+    "verification": "https://youtu.be/F_UXQyejl_A",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Opossum",
+          "link": "https://www.youtube.com/watch?v=QKOWqUvWjNw",
+          "percent": "100",
+          "hz": "144"
+      }
+    ]
+}

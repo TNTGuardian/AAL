@@ -1,0 +1,16 @@
+{
+    "id": 89807521,
+    "name": "FISH FISH GODMODE",
+    "author": "whoiskeve",
+    "creators": ["whoiskeve"],
+    "verification": "https://youtu.be/YMMzsot1w5I",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Twisted",
+          "link": "https://www.youtube.com/watch?v=O4ipgp6A4Jw",
+          "percent": "100",
+          "hz": "240"
+      }
+    ]
+}

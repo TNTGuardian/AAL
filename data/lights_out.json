@@ -1,0 +1,16 @@
+{
+    "id": 73837161,
+    "name": "Lights Out",
+    "author": "Dashiell10",
+    "creators": ["Dashiell10"],
+    "verification": "https://youtu.be/Aqf4wQbkXu0",
+    "percentToQualify": 100,
+    "records": [
+      {
+          "user": "Opossum",
+          "link": "https://www.youtube.com/watch?v=6hQigHrYCCQ",
+          "percent": "100",
+          "hz": "144"
+      }
+    ]
+}
